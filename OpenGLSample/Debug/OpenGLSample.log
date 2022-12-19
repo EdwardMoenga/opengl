@@ -1,0 +1,4 @@
+﻿  Source.cpp
+\\apporto.com\dfs\SNHU\USERS\riteshshah_snhu\Desktop\OpenGLSample\OpenGLSample\Source.cpp(34,19): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+\\apporto.com\dfs\SNHU\USERS\riteshshah_snhu\Desktop\OpenGLSample\OpenGLSample\Source.cpp(34,13): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+  OpenGLSample.vcxproj -> \\apporto.com\dfs\SNHU\USERS\riteshshah_snhu\Desktop\OpenGLSample\Debug\OpenGLSample.exe
